@@ -1,0 +1,49 @@
+.home{
+    display: flex;
+    width: 80%;
+    margin: 5% 10%;
+}
+.form{
+    flex:5
+}
+
+.select{
+    width:350px;
+    max-width: 80%;
+    background: #F0F5FB;
+    border-radius: 16px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #7E98BA;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+    cursor:pointer;
+}
+
+select option{
+    background-color: #142A51;
+}
+
+.date{
+    width: 45%;
+}
+
+.date input{
+    width: 90%;
+    background: #F0F5FB;
+    border-radius: 16px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #7E98BA;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+    cursor:pointer;
+}
+
+
